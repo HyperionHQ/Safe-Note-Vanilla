@@ -6,6 +6,8 @@
 - Add new Note
 - Delete Note
 - Search Notes
+- Copy Notes
+- Strikethrough completed Notes
 
 ### Demo site: 
 https://safe-note.netlify.app/
